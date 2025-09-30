@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides background material on urban planning and the Cardener
   River.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

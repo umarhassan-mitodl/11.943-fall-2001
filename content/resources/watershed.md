@@ -4,6 +4,8 @@ description: This resource is on watershed.
 file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/4b67eb4972fd74c294ff8495e0d7f204_watershed.pdf
 file_size: 38960
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
