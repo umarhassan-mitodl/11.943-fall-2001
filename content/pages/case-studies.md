@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a series of case studies done to see what options
   might be viable with the Cardener River.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Studies

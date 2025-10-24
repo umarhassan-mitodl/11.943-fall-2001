@@ -4,8 +4,6 @@ description: Cardener River Path and Cultural Landscape.
 file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/ae4efbd97d9c0f40aa96768aa4e9d6e2_cultland.pdf
 file_size: 792048
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

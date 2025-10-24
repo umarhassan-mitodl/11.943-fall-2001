@@ -4,8 +4,6 @@ description: This resourceis on urban land use.
 file: /courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/36fe8000e68d93707b49902690f64a46_landuseur.pdf
 file_size: 18661
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
